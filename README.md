@@ -1,4 +1,4 @@
-# GitHub-Tips---Tricks
+# GitHub-Tips-&-Tricks
 
 ## Delete Files
 Method 1: Deleting a File via the GitHub Web Interface
