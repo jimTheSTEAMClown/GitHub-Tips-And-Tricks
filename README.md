@@ -1,5 +1,8 @@
 # GitHub-Tips-&-Tricks
 
+## MD format and tricks
+https://www.markdownguide.org/cheat-sheet/
+
 ## Delete Files
 Method 1: Deleting a File via the GitHub Web Interface
 - Navigate to the Repository: Log in to your GitHub account and go to the repository containing the file you want to delete.
