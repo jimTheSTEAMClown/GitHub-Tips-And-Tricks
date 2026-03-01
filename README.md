@@ -17,3 +17,28 @@ Using the GitHub Web Interface:
 - Enter edit mode: Click the pencil icon (Edit this file) to open the file editor.
 - Modify the filename path: In the filename field at the top, change the path to include the new directory where you want the file to reside. For example, to move my_file.bin to a new_folder, change the filename from my_file.bin to new_folder/my_file.bin. If the new_folder does not exist, GitHub will create it.
 - Commit changes: Provide a commit message and optionally a description. Decide whether to commit directly to the current branch or create a new branch, then click "Commit changes" or "Propose changes."
+
+## Deleting a Repository
+🧹 How to Delete a Repository on GitHub — Step by Step
+⚠️ Important: Only users with admin/owner permissions on the repository can delete it. If you don’t see the delete option, you might not have sufficient permissions.
+1. Log In to GitHub - Open your web browser and sign into your GitHub account at github.com.
+2. Go to the Repository
+   - Navigate to the main page of the repository you want to delete:
+   - Click your profile icon → Your repositories
+   - Select the repository from your list.
+3. Open Settings - At the top of the repository page: Click the Settings tab. (If you don’t see it, look under the dropdown at the far right of the tabs.)
+4. Scroll Down to the “Danger Zone”
+   - On the General settings page:
+   - Scroll all the way to the bottom until you see the Danger Zone section.
+5. Click “Delete this repository”
+   - In the Danger Zone:
+   - Click the Delete this repository button.
+   - You’ll see a series of warnings about permanent deletion.
+6. Confirm the Deletion
+   - GitHub will ask you to type the exact repository name to confirm you want to delete it (e.g., your-username/repo-name).
+   - Carefully type the repo name exactly as shown.
+   - Click I understand the consequences, delete this repository.
+7. Final Removal
+   - Once confirmed:
+   - The repository will be permanently deleted from GitHub.
+   - You’ll be redirected back to your list of repositories or your dashboard.
